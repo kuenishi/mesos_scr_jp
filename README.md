@@ -16,16 +16,17 @@ English may also be used depending on circumstances.
 # 進め方
 
 * 発表者が決まると開催できます
-* 月に1~2度集まって、 2名ほどがMesosのソースコードを解説する
-* 発表者は、発表につかったテキスト、資料 (のURL）をこのレポジトリにコミット（PR）sうる
 * Open Questions は随時募集中
+* 月に1~2度集まって、 2名ほどがMesosのソースコードを解説する
 * 基本的に平日夜、 19:00 ~ 21:00 開催
+* 発表者は、発表につかったテキスト、資料 (のURL）をこのレポジトリにコ
+  ミット（PR）する
+* [MITライセンス](https://opensource.org/licenses/MIT) での配布に合意したものとみなします
 
 # 基礎知識
 
 * Mesos paper
 * Dominant Resource Fairness paper
-
 
 # Open Questions or keywords
 
