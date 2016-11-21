@@ -21,6 +21,20 @@ Mesos
 コードリーディング
 ========================
 
+きっかけ
+==========
+
+https://twitter.com/kuenishi/status/791492253206192128
+
+.. figure:: ./twitter.png
+
+Mesosマスターさん...
+======================
+
+https://mesos-scr-jp.connpass.com/event/43819/
+
+.. figure:: ./master.png
+
 この会の目的
 ================
 
@@ -47,8 +61,8 @@ Mesos
 * 氏名、 (Optional) 所属
 * 技術的なバックグラウンド、または今取り組んでいること
 * この会に参加する目的
-* (Optional) Mesosに関する具体的な興味
-* (Optional) C++わかりますか？  
+* (Optional) Mesosに関する具体的な興味のあるところ
+* (Optional) 運営に関する質問
 
 とりあえず第0回ということで
 =================================
