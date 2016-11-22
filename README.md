@@ -54,3 +54,5 @@ English may also be used depending on circumstances.
 # 履歴 (history)
 
 - [11/21 第0回](http://mesos-scr-jp.connpass.com/event/43819/)
+  - `bootstrap kickoff by @kuenishi <https://github.com/kuenishi/mesos_scr_jp/blob/master/00/bootstrap.rst>`_
+  - Sorter (sorter.cpp) by @oza_x86
